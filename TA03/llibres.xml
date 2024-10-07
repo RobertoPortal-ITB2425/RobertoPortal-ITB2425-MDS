@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- declaració dels documents XML -->
+<llibres>
+    <llibre id="1">
+        <titol>El senyor dels anells</titol>
+        <autor>J.R.R. Tolkien</autor>
+        <preu moneda="EUR">19.99</preu>
+    </llibre>
+    <llibre id="2">
+        <titol>1984</titol>
+        <autor>George Orwell</autor>
+        <preu moneda="USD">15.50</preu>
+    </llibre>
+    <llibre id="3">
+        <titol>Cien años de soledad</titol>
+        <autor>Gabriel García Márquez</autor>
+        <preu moneda="EUR">22.00</preu>
+    </llibre>
+    <llibre id="4">
+        <titol>El petit príncep</titol>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <preu moneda="USD">12.75</preu>
+    </llibre>
+    <llibre id="5">
+        <titol>Orgull i prejudici</titol>
+        <autor>Jane Austen</autor>
+        <preu moneda="GBP">10.99</preu>
+    </llibre>
+    <llibre id="6">
+        <titol>Crim i càstig</titol>
+        <autor>Fiódor Dostoievski</autor>
+        <preu moneda="EUR">18.50</preu>
+    </llibre>
+    <llibre id="7">
+        <titol>Don Quixot de la Manxa</titol>
+        <autor>Miguel de Cervantes</autor>
+        <preu moneda="USD">24.00</preu>
+    </llibre>
+    <llibre id="8">
+        <titol>A la carretera</titol>
+        <autor>Jack Kerouac</autor>
+        <preu moneda="EUR">14.25</preu>
+    </llibre>
+    <llibre id="9">
+        <titol>La muntanya màgica</titol>
+        <autor>Thomas Mann</autor>
+        <preu moneda="GBP">20.50</preu>
+    </llibre>
+    <llibre id="10">
+        <titol>El joc de l'ange</titol>
+        <autor>Carlos Ruiz Zafón</autor>
+        <preu moneda="EUR">17.99</preu>
+    </llibre>
+</llibres>
