@@ -12,6 +12,8 @@ any_actual = datetime.now().year
 if any <= any_actual:
      if mes >=1 and mes<=12:
          if dia >=1 and dia<=31:
+             #TODO comprobar any de traspaso
+             #Procesar datos
              if any_actual - any>16 and any_actual - any<65:
                  print("Puedes trabajar")
          else:
