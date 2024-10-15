@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <row>
+         <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+         <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Adrià Montero Sanchez</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>01564685102</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>05/10/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>207</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Fallas</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-004</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>No funciona el puerto USB</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio no interrumpido a pesar de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+         <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Roberto Portal Pareja</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>123456789</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>07/10/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>207</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Solicitud de cambio</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>253800181501</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>Mi monitor se rompiò por un accidente.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Carolina Jiménez Fernández</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>80566421B</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>18/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>207</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Solicitud de cambio</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-023</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>José López Reina</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>9072638212</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>02/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>107</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Software</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Fallo de programa</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>WLD-027</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>Classroom no me deja subir las tareas.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Pedro Cuesta Barrios</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>0564561233</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>02/10/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>207</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Software</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Solicitud de programa</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>254-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Beatriz Gonzalo</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>055642121</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>04/10/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>16</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Red</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>215-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>el cable de red no funciona, si enchufo el de mi compañero sí funciona</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Adriana Santos</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>32416521145</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>03/10/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>208</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Software</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Caìda total</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>215-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>Las aplicaciones de mi ordenador no se abren.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Leocadia Mora</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>3241565456</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>12/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>206</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Software</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Actualizaciòn de programa</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>566-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Rafaela Santos Puertas</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>5648216569</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>13/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>209</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Proyector</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>326-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>El proyector se ha caido.</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Custodia Alvarez Parejo</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>54645642</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>16/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>101</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Material audiovisual</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>568-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>No funciona el material audiovisual</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Lorena Olmos Elipe</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>654682546</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>17/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>102</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Software</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Otros</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>546-WLD</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>No puedo instalar firefox</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio parcialmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+     <row>
+         <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+         <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+         <Información_relativa_a_protección_de_datos>He leído la Información_relativa_a_protección_de_datos.</Información_relativa_a_protección_de_datos>
+         <NOMBRES_Y_APELLIDOS>Nayeli Velázquez López</NOMBRES_Y_APELLIDOS>
+         <CÓDIGO_DE_ESTUDIANTE>564561213</CÓDIGO_DE_ESTUDIANTE>
+         <FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>17/09/2024</FECHA_EN_LA_QUE_OCURRIÓ_POR_PRIMERA_VEZ>
+         <AULA_SALA>105</AULA_SALA>
+         <TIPO_DE_INCIDENCIA>Hardware</TIPO_DE_INCIDENCIA>
+         <DETALLE_DE_LA_INCIDENCIA>Solicitud de cambio</DETALLE_DE_LA_INCIDENCIA>
+         <EQUIPOS_y_o_SERVICIOS_AFECTADOS>253609416947</EQUIPOS_y_o_SERVICIOS_AFECTADOS>
+         <DESCRIPCIÓN_BREVE>La pantalla no funciona</DESCRIPCIÓN_BREVE>
+         <NIVEL_DE_URGENCIA>Servicio totalmente interrumpido a causa de la incidencia</NIVEL_DE_URGENCIA>
+     </row>
+ </root>
+
