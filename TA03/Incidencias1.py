@@ -10,3 +10,5 @@ root.attrib
 for child in root:
     print(child.tag, child.attrib)
 
+for neighbor in root.iter("neighbor"):
+    print(neighbor.attrib)

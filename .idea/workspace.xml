@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="# Ni idea de que es esto">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/Formulario de Incidencias Informáticas (respostes) Grupo5 - Respostes al formulari 1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/Incidencias2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/Incidencias2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/ProcesarIncidencias.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/Incidencias1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/llibres.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +26,12 @@
     &quot;assignee&quot;: &quot;RobertoPortal-ITB2425&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RobertoPortal-ITB2425/RobertoPortal-ITB2425-MDS.git&quot;,
-    &quot;accountId&quot;: &quot;1fdf928a-b275-48a2-855e-c2b29e1b3546&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RobertoPortal-ITB2425/RobertoPortal-ITB2425-MDS.git",
+    "accountId": "fd1dc8ab-e8e6-40ee-9f29-01ce2c79ae0f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -35,19 +42,24 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Cuantodiastienemes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WorkingAge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comprovarEdat.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Cuantodiastienemes.executor": "Run",
+    "Python.Incidencias1.executor": "Run",
+    "Python.Incidencias2.executor": "Run",
+    "Python.ProcesarIncidencias.executor": "Run",
+    "Python.WorkingAge.executor": "Run",
+    "Python.comprovarEdat.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.scopes"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
