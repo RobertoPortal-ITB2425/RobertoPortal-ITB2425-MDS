@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="# Ni idea de que es esto">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/Formulario de Incidencias Informáticas (respostes) Grupo5 - Respostes al formulari 1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/Incidencias2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/Incidencias2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/ProcesarIncidencias.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/Incidencias1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/llibres.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="# Ni idea de que es esto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729435955455</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="# Ni idea de que es esto">
+      <option name="closed" value="true" />
+      <created>1729594442940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729594442940</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
