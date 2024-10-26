@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<data>
+    <incidencia nombre="Adrià Montero Sanchez">
+        <codigo>01564685102</codigo>
+        <fecha>05/10/2024</fecha>
+        <aula>207</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Fallas</detalle>
+        <equipo>WLD-004</equipo>
+        <descripcion>No funciona el puerto USB</descripcion>
+        <urgencia>Servicio no interrumpido a pesar de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Roberto Portal Pareja">
+        <codigo>123456789</codigo>
+        <fecha>07/10/2024</fecha>
+        <aula>207</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Solicitud de cambio</detalle>
+        <equipo>253800181501</equipo>
+        <descripcion>Mi monitor se rompiò por un accidente.</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Carolina Jiménez Fernández">
+        <codigo>80566421B</codigo>
+        <fecha>18/09/2024</fecha>
+        <aula>207</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Solicitud de cambio</detalle>
+        <equipo>WLD-023</equipo>
+        <descripcion>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</descripcion>
+        <urgencia>Servicio parcialmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="José López Reina">
+        <codigo>9072638212</codigo>
+        <fecha>02/09/2024</fecha>
+        <aula>107</aula>
+        <tipo>Software</tipo>
+        <detalle>Fallo de programa</detalle>
+        <equipo>WLD-027</equipo>
+        <descripcion>Classroom no me deja subir las tareas.</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Pedro Cuesta Barrios">
+        <codigo>0564561233</codigo>
+        <fecha>02/10/2024</fecha>
+        <aula>207</aula>
+        <tipo>Software</tipo>
+        <detalle>Solicitud de programa</detalle>
+        <equipo>254-WLD</equipo>
+        <descripcion>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</descripcion>
+        <urgencia>Servicio parcialmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Beatriz Gonzalo">
+        <codigo>055642121</codigo>
+        <fecha>04/10/2024</fecha>
+        <aula>16</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Red</detalle>
+        <equipo>215-WLD</equipo>
+        <descripcion>el cable de red no funciona, si enchufo el de mi compañero sí funciona</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Adriana Santos">
+        <codigo>32416521145</codigo>
+        <fecha>03/10/2024</fecha>
+        <aula>208</aula>
+        <tipo>Software</tipo>
+        <detalle>Caìda total</detalle>
+        <equipo>215-WLD</equipo>
+        <descripcion>Las aplicaciones de mi ordenador no se abren.</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Leocadia Mora">
+        <codigo>3241565456</codigo>
+        <fecha>12/09/2024</fecha>
+        <aula>206</aula>
+        <tipo>Software</tipo>
+        <detalle>Actualizaciòn de programa</detalle>
+        <equipo>566-WLD</equipo>
+        <descripcion>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</descripcion>
+        <urgencia>Servicio parcialmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Rafaela Santos Puertas">
+        <codigo>5648216569</codigo>
+        <fecha>13/09/2024</fecha>
+        <aula>209</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Proyector</detalle>
+        <equipo>326-WLD</equipo>
+        <descripcion>El proyector se ha caido.</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Custodia Alvarez Parejo">
+        <codigo>54645642</codigo>
+        <fecha>16/09/2024</fecha>
+        <aula>101</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Material audiovisual</detalle>
+        <equipo>568-WLD</equipo>
+        <descripcion>No funciona el material audiovisual</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Lorena Olmos Elipe">
+        <codigo>654682546</codigo>
+        <fecha>17/09/2024</fecha>
+        <aula>102</aula>
+        <tipo>Software</tipo>
+        <detalle>Otros</detalle>
+        <equipo>546-WLD</equipo>
+        <descripcion>No puedo instalar firefox</descripcion>
+        <urgencia>Servicio parcialmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+    <incidencia nombre="Nayeli Velázquez López">
+        <codigo>564561213</codigo>
+        <fecha>17/09/2024</fecha>
+        <aula>105</aula>
+        <tipo>Hardware</tipo>
+        <detalle>Solicitud de cambio</detalle>
+        <equipo>253609416947</equipo>
+        <descripcion>La pantalla no funciona</descripcion>
+        <urgencia>Servicio totalmente interrumpido a causa de la incidencia</urgencia>
+    </incidencia>
+</data>

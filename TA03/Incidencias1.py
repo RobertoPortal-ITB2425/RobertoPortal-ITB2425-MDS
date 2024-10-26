@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-tree = ET.parse("country_data.xml")
+tree = ET.parse("resultado_formateado.xml")
 root = tree.getroot()
 
 root.tag
@@ -9,6 +9,3 @@ root.attrib
 
 for child in root:
     print(child.tag, child.attrib)
-
-for neighbor in root.iter("neighbor"):
-    print(neighbor.attrib)
