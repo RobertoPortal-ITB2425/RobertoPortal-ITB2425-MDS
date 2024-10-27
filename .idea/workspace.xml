@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 26.10.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/RefinarXML.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/RefinarXML.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/TA03.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/resultado_formateado.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 27.10.2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,21 +46,27 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.CodigoAlejandro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Cuantodiastienemes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Incidencias1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RefinarXML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WorkingAge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comprovarEdat.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.CSV to XML.executor": "Run",
+    "Python.CodigoAlejandro.executor": "Run",
+    "Python.Cuantodiastienemes.executor": "Run",
+    "Python.Incidencias1.executor": "Run",
+    "Python.Lista_Incidencias.executor": "Run",
+    "Python.RefinarXML.executor": "Run",
+    "Python.To_JSON.executor": "Run",
+    "Python.Validar_Incidencias.executor": "Run",
+    "Python.Validar_Incidencias_v1.executor": "Run",
+    "Python.WorkingAge.executor": "Run",
+    "Python.comprovarEdat.executor": "Run",
+    "Python.dddd.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rober\PycharmProjects\RobertoPortal-ITB2425-MDS\TA03" />
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730040669500</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#Avance 26.10.2024">
+      <option name="closed" value="true" />
+      <created>1730056758629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730056758629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
