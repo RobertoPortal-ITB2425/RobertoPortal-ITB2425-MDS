@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="# Ni idea de que es esto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/resultado_formateado.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 26.10.2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,11 +141,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729962228064</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="#Avance 26.10.2024">
+      <option name="closed" value="true" />
+      <created>1729964020388</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729964020388</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# Ni idea de que es esto" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Ni idea de que es esto" />
+    <MESSAGE value="#Avance 26.10.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Avance 26.10.2024" />
   </component>
 </project>
