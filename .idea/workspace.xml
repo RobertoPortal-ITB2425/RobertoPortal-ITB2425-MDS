@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 26.10.2024" />
+    <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 26.10.2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/RefinarXML.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA03/RefinarXML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/TA03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA03/resultado_formateado.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +66,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\PycharmProjects\RobertoPortal-ITB2425-MDS\TA03" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -149,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729964020388</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="#Avance 26.10.2024">
+      <option name="closed" value="true" />
+      <created>1730040669500</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730040669500</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
