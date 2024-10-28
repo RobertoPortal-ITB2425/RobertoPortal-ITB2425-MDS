@@ -46,27 +46,27 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.CSV to XML.executor": "Run",
-    "Python.CodigoAlejandro.executor": "Run",
-    "Python.Cuantodiastienemes.executor": "Run",
-    "Python.Incidencias1.executor": "Run",
-    "Python.Lista_Incidencias.executor": "Run",
-    "Python.RefinarXML.executor": "Run",
-    "Python.To_JSON.executor": "Run",
-    "Python.Validar_Incidencias.executor": "Run",
-    "Python.Validar_Incidencias_v1.executor": "Run",
-    "Python.WorkingAge.executor": "Run",
-    "Python.comprovarEdat.executor": "Run",
-    "Python.dddd.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.CSV to XML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CodigoAlejandro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cuantodiastienemes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Incidencias1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista_Incidencias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RefinarXML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To_JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validar_Incidencias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validar_Incidencias_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WorkingAge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovarEdat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dddd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rober\PycharmProjects\RobertoPortal-ITB2425-MDS\TA03" />
@@ -75,7 +75,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
