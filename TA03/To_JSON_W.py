@@ -79,6 +79,7 @@ def extraer_incidencias(xml_file, json_file):
 
     # Preparar los resultados para exportar
     resultados = {
+        "fecha_de_creación": datetime.now().isoformat(),  # Añadir el timestamp aquí
         "total_incidencias_encontradas": len(lista_todas_incidencias),
         "total_incidencias_validas": total_incidencias_validas,
         "porcentajes_tipo_incidencias": porcentajes_tipo,
@@ -87,8 +88,9 @@ def extraer_incidencias(xml_file, json_file):
     }
 
     # Guardar resultados en un archivo JSON
-    with open(json_file, 'w', encoding='utf-8') as f:
+    with open(json_file, 'a', encoding='utf-8') as f:
         json.dump(resultados, f, ensure_ascii=False, indent=4)
+        f.write('\n')  # Escribir una nueva línea para separar cada entrada
 
     # Imprimir resultados en la consola
     print(f'Total de incidencias encontradas: {len(lista_todas_incidencias)}')

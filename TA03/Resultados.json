@@ -14,4 +14,57 @@
         "Servicio parcialmente interrumpido a causa de la incidencia": 32.14,
         "Servicio no interrumpido a pesar de la incidencia": 39.29
     }
+}{
+    "fecha_de_creación": "2024-10-28T09:44:34.465964",
+    "total_incidencias_encontradas": 108,
+    "total_incidencias_validas": 28,
+    "porcentajes_tipo_incidencias": {
+        "Hardware": 71.43,
+        "Software": 28.57
+    },
+    "porcentajes_detalles_incidencias": {
+        "Solicitud de cambio": 71.43,
+        "Otros": 28.57
+    },
+    "porcentajes_niveles_urgencia": {
+        "Servicio totalmente interrumpido a causa de la incidencia": 28.57,
+        "Servicio parcialmente interrumpido a causa de la incidencia": 32.14,
+        "Servicio no interrumpido a pesar de la incidencia": 39.29
+    }
+}
+{
+    "fecha_de_creación": "2024-10-28T09:44:41.032655",
+    "total_incidencias_encontradas": 108,
+    "total_incidencias_validas": 28,
+    "porcentajes_tipo_incidencias": {
+        "Hardware": 71.43,
+        "Software": 28.57
+    },
+    "porcentajes_detalles_incidencias": {
+        "Solicitud de cambio": 71.43,
+        "Otros": 28.57
+    },
+    "porcentajes_niveles_urgencia": {
+        "Servicio totalmente interrumpido a causa de la incidencia": 28.57,
+        "Servicio parcialmente interrumpido a causa de la incidencia": 32.14,
+        "Servicio no interrumpido a pesar de la incidencia": 39.29
+    }
+}
+{
+    "fecha_de_creación": "2024-10-28T09:44:44.176104",
+    "total_incidencias_encontradas": 108,
+    "total_incidencias_validas": 28,
+    "porcentajes_tipo_incidencias": {
+        "Hardware": 71.43,
+        "Software": 28.57
+    },
+    "porcentajes_detalles_incidencias": {
+        "Solicitud de cambio": 71.43,
+        "Otros": 28.57
+    },
+    "porcentajes_niveles_urgencia": {
+        "Servicio totalmente interrumpido a causa de la incidencia": 28.57,
+        "Servicio parcialmente interrumpido a causa de la incidencia": 32.14,
+        "Servicio no interrumpido a pesar de la incidencia": 39.29
+    }
 }
