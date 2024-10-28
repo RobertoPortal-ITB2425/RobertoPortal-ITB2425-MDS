@@ -1,0 +1,1515 @@
+<?xml version="1.0" ?>
+<Datos>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrià Montero Sanchez</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal Pareja</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/09/2024 8:51:23</Marca_de_temps>
+        <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Carolina Jiménez Fernández</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>unai.almarcha.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Almarcha</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/09/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>anmolpreet.singh.kaur.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Anmolpreet singh kaur</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/09/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>abel.aymami.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Abel Aymami</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/09/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>diego.cornelles.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Diego Cornelles</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+        <Adreça_electrònica>francisco.diaz.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Francisco Díaz</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>dylan.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Dylan González</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>spandan.khadka.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Spandan Khadka</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>unai.llagostera.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Llagostera</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>didac.lloret.7e7@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Didac Lloret</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>manuel.amaya.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Manuel Amaya</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>rodrigo.montoya.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Rodrigo Montoya</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
+        <Adreça_electrònica>samuel.moscoso.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Samuel Moscoso</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>pau.gordillo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Pau Gordillo</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>adrian.tamargo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrian Tamargo</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>richard.yabrudy.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Richard Yabrudy</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adria Montero</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>marc.perez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Marc Pérez</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>lorena.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Lorena González</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>mora.quevedo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Mora Quevedo</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>nayeli.velazquez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Nayeli Velázquez López</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrià Montero Sanchez</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal Pareja</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Carolina Jiménez Fernández</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>unai.almarcha.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Almarcha</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>anmolpreet.singh.kaur.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Anmolpreet singh kaur</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>abel.aymami.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Abel Aymami</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>diego.cornelles.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Diego Cornelles</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+        <Adreça_electrònica>francisco.diaz.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Francisco Díaz</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>dylan.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Dylan González</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>spandan.khadka.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Spandan Khadka</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>unai.llagostera.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Llagostera</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>didac.lloret.7e7@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Didac Lloret</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>manuel.amaya.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Manuel Amaya</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>rodrigo.montoya.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Rodrigo Montoya</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>samuel.moscoso.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Samuel Moscoso</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>pau.gordillo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Pau Gordillo</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>adrian.tamargo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrian Tamargo</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>richard.yabrudy.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Richard Yabrudy</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adria Montero</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>marc.perez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Marc Pérez</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>lorena.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Lorena González</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>mora.quevedo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Mora Quevedo</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>nayeli.velazquez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Nayeli Velázquez López</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrià Montero Sanchez</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal Pareja</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
+        <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Carolina Jiménez Fernández</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>unai.almarcha.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Almarcha</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>anmolpreet.singh.kaur.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Anmolpreet singh kaur</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>abel.aymami.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Abel Aymami</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>diego.cornelles.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Diego Cornelles</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>francisco.diaz.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Francisco Díaz</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>dylan.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Dylan González</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>spandan.khadka.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Spandan Khadka</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>unai.llagostera.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Llagostera</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>didac.lloret.7e7@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Didac Lloret</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>manuel.amaya.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Manuel Amaya</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>rodrigo.montoya.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Rodrigo Montoya</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
+        <Adreça_electrònica>samuel.moscoso.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Samuel Moscoso</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>pau.gordillo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Pau Gordillo</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>adrian.tamargo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrian Tamargo</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>richard.yabrudy.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Richard Yabrudy</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adria Montero</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>marc.perez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Marc Pérez</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>lorena.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Lorena González</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>mora.quevedo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Mora Quevedo</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>nayeli.velazquez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Nayeli Velázquez López</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrià Montero Sanchez</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal Pareja</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Carolina Jiménez Fernández</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>unai.almarcha.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Almarcha</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>anmolpreet.singh.kaur.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Anmolpreet singh kaur</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>abel.aymami.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Abel Aymami</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>diego.cornelles.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Diego Cornelles</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+        <Adreça_electrònica>francisco.diaz.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Francisco Díaz</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>dylan.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Dylan González</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:13:05</Marca_de_temps>
+        <Adreça_electrònica>spandan.khadka.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Spandan Khadka</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>unai.llagostera.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Unai Llagostera</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>didac.lloret.7e7@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Didac Lloret</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>manuel.amaya.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Manuel Amaya</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:52</Marca_de_temps>
+        <Adreça_electrònica>rodrigo.montoya.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Rodrigo Montoya</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:51:23</Marca_de_temps>
+        <Adreça_electrònica>samuel.moscoso.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Samuel Moscoso</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>18/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:02:45</Marca_de_temps>
+        <Adreça_electrònica>pau.gordillo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Pau Gordillo</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>adrian.tamargo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrian Tamargo</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>richard.yabrudy.7e6@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Richard Yabrudy</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adria Montero</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:10:18</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>marc.perez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Marc Pérez</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>lorena.gonzalez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Lorena González</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>16/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:24:45</Marca_de_temps>
+        <Adreça_electrònica>mora.quevedo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Mora Quevedo</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:40:27</Marca_de_temps>
+        <Adreça_electrònica>nayeli.velazquez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Nayeli Velázquez López</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>17/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/10/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>adria.montero.7e5@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adrià Montero Sanchez</Nombres_y_apellidos>
+        <Código_de_estudiante>01564685102</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>05/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallas</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-004</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el puerto USB</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>roberto.portal.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Roberto Portal Pareja</Nombres_y_apellidos>
+        <Código_de_estudiante>123456789</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253800181501</Equipos_o_servicios_afectados>
+        <Descripción_breve>Mi monitor se rompiò por un accidente.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>carolina.jimenez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Carolina Jiménez Fernández</Nombres_y_apellidos>
+        <Código_de_estudiante>80566421B</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-023</Equipos_o_servicios_afectados>
+        <Descripción_breve>La rueda del ratón ha dejado de funcionar y se ha quedado atascada.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>jose.lopez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>José López Reina</Nombres_y_apellidos>
+        <Código_de_estudiante>9072638212</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>107</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Fallo de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>WLD-027</Equipos_o_servicios_afectados>
+        <Descripción_breve>Classroom no me deja subir las tareas.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:04:14</Marca_de_temps>
+        <Adreça_electrònica>pedro.cuesta.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Pedro Cuesta Barrios</Nombres_y_apellidos>
+        <Código_de_estudiante>0564561233</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>02/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>207</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>254-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El programa veyon no está instalado en mi ordenador y no puedo ver la pantalla del profesor.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>beatriz.gonzalo.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Beatriz Gonzalo</Nombres_y_apellidos>
+        <Código_de_estudiante>055642121</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>04/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>16</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Red</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>el cable de red no funciona, si enchufo el de mi compañero sí funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:08:25</Marca_de_temps>
+        <Adreça_electrònica>adriana.santos.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Adriana Santos</Nombres_y_apellidos>
+        <Código_de_estudiante>32416521145</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>03/10/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>208</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Caìda total</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>215-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>Las aplicaciones de mi ordenador no se abren.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>01/09/2024 8:50:47</Marca_de_temps>
+        <Adreça_electrònica>leocadia.mora.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Leocadia Mora</Nombres_y_apellidos>
+        <Código_de_estudiante>3241565456</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>206</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Actualizaciòn de programa</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>566-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>la versión de chrome está obsoleta y no me deja acceder a algunos sitios web</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>09/10/2024 8:11:57</Marca_de_temps>
+        <Adreça_electrònica>rafaela.santos.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Rafaela Santos Puertas</Nombres_y_apellidos>
+        <Código_de_estudiante>5648216569</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>13/09/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>209</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Proyector</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>326-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>El proyector se ha caido.</Descripción_breve>
+        <Nivel_de_urgencia>Servicio parcialmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>07/08/2024 11:04:14</Marca_de_temps>
+        <Adreça_electrònica>custodia.alvarez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Custodia Alvarez Parejo</Nombres_y_apellidos>
+        <Código_de_estudiante>54645642</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>07/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>101</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Material audiovisual</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>568-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No funciona el material audiovisual</Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>12/08/2024 8:07:02</Marca_de_temps>
+        <Adreça_electrònica>lorena.olmos.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Lorena Olmos Elipe</Nombres_y_apellidos>
+        <Código_de_estudiante>654682546</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>12/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>102</Aula>
+        <Tipo_de_incidencia>Software</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Otros</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>546-WLD</Equipos_o_servicios_afectados>
+        <Descripción_breve>No puedo instalar firefox </Descripción_breve>
+        <Nivel_de_urgencia>Servicio no interrumpido a pesar de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+    <Incidencia>
+        <Marca_de_temps>26/08/2024 12:08:25</Marca_de_temps>
+        <Adreça_electrònica>nayeli.velazquez.7e8@itb.cat</Adreça_electrònica>
+        <Información_relativa_a_protección_de_datos>He leído la información relativa a protección de datos.</Información_relativa_a_protección_de_datos>
+        <Nombres_y_apellidos>Nayeli Velázquez López</Nombres_y_apellidos>
+        <Código_de_estudiante>564561213</Código_de_estudiante>
+        <Fecha_en_la_que_ocurrió_por_primera_vez>26/08/2024</Fecha_en_la_que_ocurrió_por_primera_vez>
+        <Aula>105</Aula>
+        <Tipo_de_incidencia>Hardware</Tipo_de_incidencia>
+        <Detalle_de_la_incidencia>Solicitud de cambio</Detalle_de_la_incidencia>
+        <Equipos_o_servicios_afectados>253609416947</Equipos_o_servicios_afectados>
+        <Descripción_breve>La pantalla no funciona</Descripción_breve>
+        <Nivel_de_urgencia>Servicio totalmente interrumpido a causa de la incidencia</Nivel_de_urgencia>
+    </Incidencia>
+</Datos>

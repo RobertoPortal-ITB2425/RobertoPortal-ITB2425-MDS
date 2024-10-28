@@ -109,7 +109,7 @@ def extraer_incidencias(xml_file, json_file):
 # Ruta del archivo XML
 ruta_archivo_xml = 'TA03.xml'
 # Ruta del archivo JSON de salida
-ruta_archivo_json = "\home\roberto.portal.7e8\PycharmProjects\RobertoPortal-ITB2425-MDS\resultados.json"
+ruta_archivo_json = 'Resultados.json'
 
 # Llama a la función con la ruta a tu archivo XML y la ruta del archivo JSON
 extraer_incidencias(ruta_archivo_xml, ruta_archivo_json)

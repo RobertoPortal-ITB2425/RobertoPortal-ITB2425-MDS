@@ -1,0 +1,17 @@
+{
+    "total_incidencias_encontradas": 108,
+    "total_incidencias_validas": 28,
+    "porcentajes_tipo_incidencias": {
+        "Hardware": 71.42857142857143,
+        "Software": 28.57142857142857
+    },
+    "porcentajes_detalles_incidencias": {
+        "Solicitud de cambio": 71.42857142857143,
+        "Otros": 28.57142857142857
+    },
+    "porcentajes_niveles_urgencia": {
+        "Servicio totalmente interrumpido a causa de la incidencia": 28.57142857142857,
+        "Servicio parcialmente interrumpido a causa de la incidencia": 32.142857142857146,
+        "Servicio no interrumpido a pesar de la incidencia": 39.285714285714285
+    }
+}
