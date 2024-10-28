@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 # Cambia la ruta a tu archivo CSV aquí
-csv_file = 'TA03_v1.csv'  # Asegúrate de que esta ruta sea correcta
+csv_file = 'TA03.csv'  # Asegúrate de que esta ruta sea correcta
 
 # Crear la raíz del documento XML
 root = ET.Element('Datos')
@@ -32,7 +32,7 @@ try:
     pretty_xml = parsed_xml.toprettyxml(indent="    ")
 
     # Guardar el archivo XML
-    xml_file = 'TA03_v1.xml'
+    xml_file = 'TA03.xml'
     with open(xml_file, 'w', encoding='utf-8') as f:
         f.write(pretty_xml)
 
