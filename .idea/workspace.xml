@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f50346-6bb1-4ae4-a232-a7e84f6a0e1c" name="Changes" comment="#Avance 27.10.2024">
-      <change afterPath="$PROJECT_DIR$/TA03/Nuevo_JSON.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/Resultados.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/TA03_v1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA03/To_JSON_W.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_16_41_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_16_41__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2024_11_50_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2024_11_50__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_10_2024_14_43_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_10_2024_14_43__Changes_.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +53,28 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.CSV to XML.executor": "Run",
-    "Python.CodigoAlejandro.executor": "Run",
-    "Python.Cuantodiastienemes.executor": "Run",
-    "Python.Incidencias1.executor": "Run",
-    "Python.Lista_Incidencias.executor": "Run",
-    "Python.Nuevo_JSON.executor": "Run",
-    "Python.RefinarXML.executor": "Run",
-    "Python.To_JSON.executor": "Run",
-    "Python.Validar_Incidencias.executor": "Run",
-    "Python.Validar_Incidencias_v1.executor": "Run",
-    "Python.WorkingAge.executor": "Run",
-    "Python.comprovarEdat.executor": "Run",
-    "Python.dddd.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.CSV to XML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CodigoAlejandro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cuantodiastienemes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Incidencias1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista_Incidencias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nuevo_JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RefinarXML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To_JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validar_Incidencias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validar_Incidencias_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WorkingAge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovarEdat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dddd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rober\PycharmProjects\RobertoPortal-ITB2425-MDS\TA03" />
